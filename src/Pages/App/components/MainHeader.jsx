@@ -27,6 +27,7 @@ import {
    Checkbox,
    CheckboxGroup,
    Grid,
+   Title,
 } from "@mantine/core";
 import { useDisclosure } from "@mantine/hooks";
 import {
@@ -180,6 +181,13 @@ export function MainHeader() {
                label={"OR"}
                labelPosition={"center"}
             />
+            <Text
+               size={"lg"}
+               fw={500}
+               mb={16}
+            >
+               Search by Filters
+            </Text>
             <Flex
                direction={"row"}
                gap={"16"}

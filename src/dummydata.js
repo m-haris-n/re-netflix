@@ -10,7 +10,8 @@ export const movieData = [
       imdb_rating: 8.8,
       language: "English",
       country: "USA",
-      poster_url: "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_FMjpg_UX1000_.jpg",
+      poster_url:
+         "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_FMjpg_UX1000_.jpg",
       trailer_url: "https://www.youtube.com/watch?v=YoHD9XEInc0",
    },
    {
@@ -25,7 +26,7 @@ export const movieData = [
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/81nLPYtCsJL._AC_SY679_.jpg",
+         "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
       trailer_url: "https://www.youtube.com/watch?v=6hB3S9bIaco",
    },
    {
@@ -40,7 +41,7 @@ export const movieData = [
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/71xP6jxCv3L._AC_SY679_.jpg",
+         "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
       trailer_url: "https://www.youtube.com/watch?v=sY1S34973zA",
    },
    {
@@ -54,7 +55,8 @@ export const movieData = [
       imdb_rating: 9.0,
       language: "English",
       country: "USA",
-      poster_url: "https://m.media-amazon.com/images/I/51AjYjPyMXL._AC_.jpg",
+      poster_url:
+         "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
       trailer_url: "https://www.youtube.com/watch?v=EXeTwQWrcwY",
    },
    {
@@ -84,7 +86,7 @@ export const movieData = [
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/81D+KJkO9-L._AC_SY679_.jpg",
+         "https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
       trailer_url: "https://www.youtube.com/watch?v=SUXWAEX2jlg",
    },
    {
@@ -99,7 +101,7 @@ export const movieData = [
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/61Wl-27iVtL._AC_SY679_.jpg",
+         "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
       trailer_url: "https://www.youtube.com/watch?v=bLvqoHBptjg",
    },
    {
@@ -129,7 +131,7 @@ export const movieData = [
       language: "English",
       country: "New Zealand",
       poster_url:
-         "https://m.media-amazon.com/images/I/91QepQm9mrL._AC_SY679_.jpg",
+         "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
       trailer_url: "https://www.youtube.com/watch?v=r5X-hFf6Bwo",
    },
    {
@@ -144,7 +146,7 @@ export const movieData = [
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/81t2CVWEsUL._AC_SY679_.jpg",
+         "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_SX300.jpg",
       trailer_url: "https://www.youtube.com/watch?v=4sj1MT05lAA",
    },
    {
@@ -159,7 +161,7 @@ export const movieData = [
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/71A+G+vOboL._AC_SY679_.jpg",
+         "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
       trailer_url: "https://www.youtube.com/watch?v=owK1qxDselE",
    },
    {
@@ -189,7 +191,7 @@ export const movieData = [
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/51sQPnFl2fL._AC_SY679_.jpg",
+         "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_SX300.jpg",
       trailer_url: "https://www.youtube.com/watch?v=Ki4haFrqSrw",
    },
    {
@@ -219,7 +221,7 @@ export const movieData = [
       language: "Korean",
       country: "South Korea",
       poster_url:
-         "https://m.media-amazon.com/images/I/91niArG0wML._AC_SY679_.jpg",
+         "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
       trailer_url: "https://www.youtube.com/watch?v=5xH0HfJHsaY",
    },
    {
@@ -234,7 +236,7 @@ export const movieData = [
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/71eWbMEbllL._AC_SY679_.jpg",
+         "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
       trailer_url: "https://www.youtube.com/watch?v=zwhP5b4tD6g",
    },
    {
@@ -249,7 +251,7 @@ export const movieData = [
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/51o1DnLJTSL._AC_SY679_.jpg",
+         "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
       trailer_url: "https://www.youtube.com/watch?v=W6Mm8Sbe__o",
    },
    {
@@ -258,13 +260,13 @@ export const movieData = [
       description:
          "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
       genre: ["Biography", "Drama", "History"],
-      release_date: "1993-12-15",
+      release_date: "1994-02-04",
       duration: 195,
       imdb_rating: 8.9,
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/51sqA0pV+jL._AC_SY679_.jpg",
+         "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
       trailer_url: "https://www.youtube.com/watch?v=gG22XNhtnoY",
    },
    {
@@ -279,7 +281,7 @@ export const movieData = [
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/91uvK2Zm0GL._AC_SY679_.jpg",
+         "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_SX300.jpg",
       trailer_url: "https://www.youtube.com/watch?v=auYbpnEwBBg",
    },
    {
@@ -294,7 +296,7 @@ export const movieData = [
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/71RbJ4nIjeL._AC_SY679_.jpg",
+         "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
       trailer_url: "https://www.youtube.com/watch?v=KnrRy6kSFF0",
    },
    {
@@ -309,7 +311,7 @@ export const movieData = [
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/81Z-F3FUR5L._AC_SY679_.jpg",
+         "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_SX300.jpg",
       trailer_url: "https://www.youtube.com/watch?v=_iH0UBYDI4g",
    },
    {
@@ -323,68 +325,69 @@ export const movieData = [
       imdb_rating: 8.5,
       language: "English",
       country: "USA",
-      poster_url: "https://m.media-amazon.com/images/I/51sGmsbHPpL._AC_.jpg",
+      poster_url:
+         "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_SX300.jpg",
       trailer_url: "https://www.youtube.com/watch?v=o4gHCmTQDVI",
    },
    {
       id: "23",
-      title: "The Avengers",
+      title: "Avengers: Infinity War",
       description:
-         "Earth's mightiest heroes must come together and learn to fight as a team if they are going to stop the mischievous Loki and his alien army from enslaving humanity.",
+         "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
       genre: ["Action", "Adventure", "Sci-Fi"],
-      release_date: "2012-05-04",
-      duration: 143,
-      imdb_rating: 8.0,
+      release_date: "2018-04-27",
+      duration: 149,
+      imdb_rating: 8.4,
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/71bO4FPgOvL._AC_SY679_.jpg",
-      trailer_url: "https://www.youtube.com/watch?v=eOrNdBpGMv8",
+         "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SX300.jpg",
+      trailer_url: "https://www.youtube.com/watch?v=6ZfuNTqbHE8",
    },
    {
       id: "24",
-      title: "Titanic",
+      title: "Life Is Beautiful",
       description:
-         "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
-      genre: ["Drama", "Romance"],
-      release_date: "1997-12-19",
-      duration: 195,
-      imdb_rating: 7.8,
-      language: "English",
-      country: "USA",
+         "When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.",
+      genre: ["Drama", "Romance", "Comedy"],
+      release_date: "1997-12-20",
+      duration: 116,
+      imdb_rating: 8.6,
+      language: "Italian",
+      country: "Italy",
       poster_url:
-         "https://m.media-amazon.com/images/I/71rNJQ2g-EL._AC_SY679_.jpg",
-      trailer_url: "https://www.youtube.com/watch?v=kVrqfYjkTdQ",
+         "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      trailer_url: "https://www.youtube.com/watch?v=8CTjcVr9Iao",
    },
    {
       id: "25",
-      title: "The Lion King (2019)",
+      title: "Spirited Away",
       description:
-         "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
-      genre: ["Animation", "Adventure", "Drama"],
-      release_date: "2019-07-19",
-      duration: 118,
-      imdb_rating: 6.8,
-      language: "English",
-      country: "USA",
+         "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+      genre: ["Animation", "Adventure", "Family"],
+      release_date: "2001-07-20",
+      duration: 125,
+      imdb_rating: 8.6,
+      language: "Japansese",
+      country: "Japan",
       poster_url:
-         "https://m.media-amazon.com/images/I/91kFYg4fX3L._AC_SY679_.jpg",
-      trailer_url: "https://www.youtube.com/watch?v=7TavVZMewpY",
+         "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      trailer_url: "https://www.youtube.com/watch?v=ByXuk9QqQkk",
    },
    {
       id: "26",
-      title: "The Social Network",
+      title: "Goodfellas",
       description:
-         "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea, and by the co-founder who was later squeezed out of the business.",
-      genre: ["Biography", "Drama"],
-      release_date: "2010-10-01",
-      duration: 120,
-      imdb_rating: 7.7,
+         "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+      genre: ["Biography", "Drama", "Crime"],
+      release_date: "1990-09-19",
+      duration: 145,
+      imdb_rating: 8.7,
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/71j+K4Q8m4L._AC_SY679_.jpg",
-      trailer_url: "https://www.youtube.com/watch?v=lB95KLmpLR4",
+         "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+      trailer_url: "https://www.youtube.com/watch?v=2ilzidi_J8Q",
    },
    {
       id: "27",
@@ -398,23 +401,23 @@ export const movieData = [
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/71bJe417SoL._AC_SY679_.jpg",
+         "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SX300.jpg",
       trailer_url: "https://www.youtube.com/watch?v=iszwuX1AK6A",
    },
    {
       id: "28",
-      title: "Guardians of the Galaxy",
+      title: "Wild Tales",
       description:
-         "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe.",
-      genre: ["Action", "Adventure", "Comedy"],
-      release_date: "2014-08-01",
-      duration: 121,
-      imdb_rating: 8.0,
-      language: "English",
-      country: "USA",
+         "Six short stories that explore the extremities of human behavior involving people in distress.",
+      genre: ["Drama", "Thriller", "Comedy"],
+      release_date: "2014-08-21",
+      duration: 122,
+      imdb_rating: 8.1,
+      language: "Spanish",
+      country: "Spain",
       poster_url:
-         "https://m.media-amazon.com/images/I/91ntvDOO+XL._AC_SY679_.jpg",
-      trailer_url: "https://www.youtube.com/watch?v=d96cjJhvlMA",
+         "https://m.media-amazon.com/images/M/MV5BNGQzY2Y0MTgtMDA4OC00NjM3LWI0ZGQtNTJlM2UxZDQxZjI0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_SX300.jpg",
+      trailer_url: "https://www.youtube.com/watch?v=Utq0aDEp084",
    },
    {
       id: "29",
@@ -428,7 +431,7 @@ export const movieData = [
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/81dt6JMB+BL._AC_SY679_.jpg",
+         "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX300.jpg",
       trailer_url: "https://www.youtube.com/watch?v=lc0UehYemQA",
    },
    {
@@ -443,23 +446,23 @@ export const movieData = [
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/81zL5IzqKtL._AC_SY679_.jpg",
-      trailer_url: "https://www.youtube.com/watch?v=c3gI8j2Yb_U",
+         "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+      trailer_url: "https://www.youtube.com/watch?v=dlnmQbPGuls",
    },
    {
       id: "31",
-      title: "Blade Runner 2049",
+      title: "Blade Runner",
       description:
-         "Young Blade Runner K's discovery of a long-buried secret leads him to track down former Blade Runner Rick Deckard, who's been missing for thirty years.",
-      genre: ["Action", "Drama", "Mystery"],
-      release_date: "2017-10-06",
-      duration: 164,
-      imdb_rating: 8.0,
+         "A blade runner must pursue and terminate four replicants who stole a ship in space, and have returned to Earth to find their creator.",
+      genre: ["Action", "Drama", "Sci-Fi"],
+      release_date: "1982-06-25",
+      duration: 117,
+      imdb_rating: 8.1,
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/81wUtQ1TEbL._AC_SY679_.jpg",
-      trailer_url: "https://www.youtube.com/watch?v=gCcx85zbxz4",
+         "https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+      trailer_url: "https://www.youtube.com/watch?v=eogpIG53Cis",
    },
    {
       id: "32",
@@ -473,23 +476,23 @@ export const movieData = [
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/81p+xe8cbnL._AC_SY679_.jpg",
+         "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jp",
       trailer_url: "https://www.youtube.com/watch?v=7d_jQycdQGo",
    },
    {
       id: "33",
-      title: "Her",
+      title: "12 Years a Slave",
       description:
-         "In a near future, a lonely writer develops an unlikely relationship with an operating system designed to meet his every need.",
-      genre: ["Drama", "Romance", "Sci-Fi"],
-      release_date: "2013-12-18",
-      duration: 126,
-      imdb_rating: 8.0,
+         "In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.",
+      genre: ["Drama", "Biography", "History"],
+      release_date: "2013-11-08",
+      duration: 134,
+      imdb_rating: 8.1,
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/71ZoVrE5OZL._AC_SY679_.jpg",
-      trailer_url: "https://www.youtube.com/watch?v=dJTU48_yghs",
+         "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_SX300.jpg",
+      trailer_url: "https://www.youtube.com/watch?v=z02Ie8wKKRg",
    },
    {
       id: "34",
@@ -503,7 +506,7 @@ export const movieData = [
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/91j-QJcb8zL._AC_SY679_.jpg",
+         "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_SX300.jpg",
       trailer_url: "https://www.youtube.com/watch?v=1Fg5iWmQjwk",
    },
    {
@@ -518,7 +521,7 @@ export const movieData = [
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/81N5CLGe-7L._AC_SY679_.jpg",
+         "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
       trailer_url: "https://www.youtube.com/watch?v=5iaYLCiq5RM",
    },
    {
@@ -533,7 +536,7 @@ export const movieData = [
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/71c05lTE03L._AC_SY679_.jpg",
+         "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_SX300.jpg",
       trailer_url: "https://www.youtube.com/watch?v=Ym3LB0lOJ0o",
    },
    {
@@ -548,23 +551,23 @@ export const movieData = [
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/81QwmPDU7IL._AC_SY679_.jpg",
+         "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
       trailer_url: "https://www.youtube.com/watch?v=WFJgUm7iOKw",
    },
    {
       id: "38",
-      title: "The Big Short",
+      title: "Room",
       description:
-         "In 2006-2007 a group of investors bet against the US mortgage market. In their research, they discover how flawed and corrupt the market is.",
-      genre: ["Biography", "Comedy", "Drama"],
-      release_date: "2015-12-23",
-      duration: 130,
-      imdb_rating: 7.8,
+         "Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time.",
+      genre: ["Thriller", "Drama"],
+      release_date: "2016-01-22",
+      duration: 118,
+      imdb_rating: 8.1,
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/91Yr2oSv6LL._AC_SY679_.jpg",
-      trailer_url: "https://www.youtube.com/watch?v=vgqG3ITMv1Q",
+         "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_SX300.jpg",
+      trailer_url: "https://www.youtube.com/watch?v=E_Ci-pAL4eE",
    },
    {
       id: "39",
@@ -578,83 +581,83 @@ export const movieData = [
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/71F9VjGnlgL._AC_SY679_.jpg",
+         "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_SX300.jpg",
       trailer_url: "https://www.youtube.com/watch?v=56jw6tasomc",
    },
    {
       id: "40",
-      title: "Slumdog Millionaire",
+      title: "Amores perros",
       description:
-         "A Mumbai teenager reflects on his life after being accused of cheating on the Indian version of 'Who Wants to Be a Millionaire?'.",
-      genre: ["Drama", "Romance"],
-      release_date: "2008-12-25",
-      duration: 120,
-      imdb_rating: 8.0,
-      language: "English",
-      country: "UK",
+         "A horrific car accident connects three stories, each involving characters dealing with loss, regret, and life's harsh realities, all in the name of love.",
+      genre: ["Drama", "Thriller"],
+      release_date: "2000-06-16",
+      duration: 154,
+      imdb_rating: 8.1,
+      language: "Spanish",
+      country: "Mexico",
       poster_url:
-         "https://m.media-amazon.com/images/I/81V+kV8SCYL._AC_SY679_.jpg",
-      trailer_url: "https://www.youtube.com/watch?v=AIzbwV7on6Q",
+         "https://m.media-amazon.com/images/M/MV5BMjQxMWJhMzMtMzllZi00NzMwLTllYjktNTcwZmU4ZmU3NTA0XkEyXkFqcGdeQXVyMTAzMDM4MjM0._V1_SX300.jpg",
+      trailer_url: "https://www.youtube.com/watch?v=A5HTBYR7m0o",
    },
    {
       id: "41",
-      title: "Gravity",
+      title: "Logan",
       description:
-         "Two astronauts work together to survive after an accident leaves them stranded in space.",
-      genre: ["Drama", "Sci-Fi", "Thriller"],
-      release_date: "2013-10-04",
-      duration: 91,
-      imdb_rating: 7.7,
+         "In a future where mutants are nearly extinct, an elderly and weary Logan leads a quiet life. But when Laura, a mutant child pursued by scientists, comes to him for help, he must get her to safety.",
+      genre: ["Drama", "Sci-Fi", "Action"],
+      release_date: "2017-03-03",
+      duration: 137,
+      imdb_rating: 8.1,
       language: "English",
-      country: "UK",
+      country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/71CDqUw2mvL._AC_SY679_.jpg",
-      trailer_url: "https://www.youtube.com/watch?v=OiTiKOy59o4",
+         "https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+      trailer_url: "https://www.youtube.com/watch?v=Div0iP65aZo",
    },
    {
       id: "42",
-      title: "The Martian",
+      title: "Hacksaw Ridge",
       description:
-         "An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive.",
-      genre: ["Adventure", "Drama", "Sci-Fi"],
-      release_date: "2015-10-02",
-      duration: 144,
-      imdb_rating: 8.0,
+         "World War II American Army Medic Desmond T. Doss, who served during the Battle of Okinawa, refuses to kill people and becomes the first man in American history to receive the Medal of Honor without firing a shot.",
+      genre: ["Biography", "Drama", "History"],
+      release_date: "2016-10-16",
+      duration: 139,
+      imdb_rating: 8.1,
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/81QWTBbmixL._AC_SY679_.jpg",
-      trailer_url: "https://www.youtube.com/watch?v=ej3ioOneTy8",
+         "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_SX300.jpg",
+      trailer_url: "https://www.youtube.com/watch?v=s2-1hz1juBI",
    },
    {
       id: "43",
-      title: "Birdman or (The Unexpected Virtue of Ignorance)",
+      title: "Coco",
       description:
-         "A washed-up superhero actor attempts to revive his fading career by writing, directing, and starring in a Broadway production.",
-      genre: ["Comedy", "Drama"],
-      release_date: "2014-10-17",
-      duration: 119,
-      imdb_rating: 7.7,
+         "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+      genre: ["Animation", "Adventure", "Comedy"],
+      release_date: "2017-10-27",
+      duration: 105,
+      imdb_rating: 8.4,
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/71vpzjTG1GL._AC_SY679_.jpg",
-      trailer_url: "https://www.youtube.com/watch?v=uJfLoE6hanc",
+         "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_SX300.jpg",
+      trailer_url: "https://www.youtube.com/watch?v=Rvr68u6k5sI",
    },
    {
       id: "44",
-      title: "The Shape of Water",
+      title: "Three Billboards Outside Ebbing, Missouri",
       description:
-         "At a top-secret research facility in the 1960s, a lonely janitor forms a unique relationship with an amphibious creature that is being held in captivity.",
-      genre: ["Drama", "Fantasy", "Romance"],
-      release_date: "2017-12-01",
-      duration: 123,
-      imdb_rating: 7.3,
+         "A mother personally challenges the local authorities to solve her daughter's murder when they fail to catch the culprit.",
+      genre: ["Drama", "Comedy", "Crime"],
+      release_date: "2017-11-10",
+      duration: 115,
+      imdb_rating: 8.1,
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/71fxKbP7gqL._AC_SY679_.jpg",
-      trailer_url: "https://www.youtube.com/watch?v=XFYWazblaUA",
+         "https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_SX300.jpg",
+      trailer_url: "https://www.youtube.com/watch?v=Jit3YhGx5pU",
    },
    {
       id: "45",
@@ -668,68 +671,68 @@ export const movieData = [
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/71mggH6HtnL._AC_SY679_.jpg",
+         "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_SX300.jpg",
       trailer_url: "https://www.youtube.com/watch?v=yRUAzGQ3nSY",
    },
    {
       id: "46",
-      title: "La La Land",
+      title: "Spider-Man: Into the Spider-Verse",
       description:
-         "While navigating their careers in Los Angeles, a pianist and an actress fall in love while attempting to reconcile their aspirations for the future.",
-      genre: ["Comedy", "Drama", "Music"],
-      release_date: "2016-12-09",
-      duration: 128,
-      imdb_rating: 8.0,
+         "Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+      genre: ["Animation", "Action", "Adventure"],
+      release_date: "2018-12-14",
+      duration: 117,
+      imdb_rating: 8.4,
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/81WKRWXnHvL._AC_SY679_.jpg",
-      trailer_url: "https://www.youtube.com/watch?v=0pdqf4P9MB8",
+         "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_SX300.jpg",
+      trailer_url: "https://www.youtube.com/watch?v=g4Hbz2jLxvQ",
    },
    {
       id: "47",
-      title: "The Revenant",
+      title: "Memento",
       description:
-         "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.",
-      genre: ["Action", "Adventure", "Drama"],
-      release_date: "2015-12-25",
-      duration: 156,
-      imdb_rating: 8.0,
+         "A man with short-term memory loss attempts to track down his wife's murderer.",
+      genre: ["Mystery", "Thriller"],
+      release_date: "2001-03-16",
+      duration: 113,
+      imdb_rating: 8.5,
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/91mqFN9ezQL._AC_SY679_.jpg",
-      trailer_url: "https://www.youtube.com/watch?v=LoebZZ8K5N0",
+         "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg   ",
+      trailer_url: "https://www.youtube.com/watch?v=sjZWptFbNkc",
    },
    {
       id: "48",
-      title: "Black Panther",
+      title: "Green Book",
       description:
-         "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future and must confront a challenger from his country's past.",
-      genre: ["Action", "Adventure", "Sci-Fi"],
-      release_date: "2018-02-16",
-      duration: 134,
-      imdb_rating: 7.3,
+         "A working-class Italian-American bouncer becomes the driver of an African-American classical pianist on a tour of venues through the 1960s American South.",
+      genre: ["Biography", "Comedy", "Drama"],
+      release_date: "2018-09-11",
+      duration: 130,
+      imdb_rating: 8.2,
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/81lAPl9Fl0L._AC_SY679_.jpg",
-      trailer_url: "https://www.youtube.com/watch?v=xjDjIWPwcPU",
+         "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_SX300.jpg",
+      trailer_url: "https://www.youtube.com/watch?v=QkZxoko_HC0",
    },
    {
       id: "49",
-      title: "Get Out",
+      title: "Klaus",
       description:
-         "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",
-      genre: ["Horror", "Mystery", "Thriller"],
-      release_date: "2017-02-24",
+         "A simple act of kindness always sparks another, even in a frozen, faraway place. When Smeerensburg's new postman, Jesper, befriends toymaker Klaus, their gifts melt an age-old feud and deliver a sleigh full of holiday traditions.",
+      genre: ["Animation", "Adventure", "Comedy"],
+      release_date: "2019-11-08",
       duration: 104,
-      imdb_rating: 7.7,
+      imdb_rating: 8.2,
       language: "English",
       country: "USA",
       poster_url:
-         "https://m.media-amazon.com/images/I/81bD84bHneL._AC_SY679_.jpg",
-      trailer_url: "https://www.youtube.com/watch?v=DzfpyUB60YY",
+         "https://m.media-amazon.com/images/M/MV5BMWYwOThjM2ItZGYxNy00NTQwLWFlZWEtM2MzM2Q5MmY3NDU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+      trailer_url: "https://www.youtube.com/watch?v=taE3PwurhYM",
    },
    {
       id: "50",
@@ -743,7 +746,7 @@ export const movieData = [
       language: "English",
       country: "Australia",
       poster_url:
-         "https://m.media-amazon.com/images/I/91Ts7N14BaL._AC_SY679_.jpg",
+         "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
       trailer_url: "https://www.youtube.com/watch?v=hEJnMQG9ev8",
    },
 ];

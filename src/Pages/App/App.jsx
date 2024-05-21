@@ -16,15 +16,22 @@ export default function App() {
    const [num, setNum] = useState(6);
    const [num2, setNum2] = useState(6);
 
-   let latestMovies = movieData.sort(
-      (a, b) => new Date(b.release_date) - new Date(a.release_date)
-   );
-   let latestMovies2 = movieData.sort(
-      (a, b) => new Date(b.release_date) - new Date(a.release_date)
+   let latestMovies = movieData.slice(0, movieData.length);
+   let latestMovies2 = movieData.slice(0, movieData.length);
+
+   latestMovies = latestMovies.sort(
+      (a, b) => new Date(a.release_date) - new Date(b.release_date)
    );
 
+   latestMovies2 = latestMovies2.reverse();
+
+   console.log(latestMovies);
+   console.log(latestMovies2);
+
    latestMovies = latestMovies.slice(0, num);
-   latestMovies2 = latestMovies.slice(0, num2);
+   latestMovies2 = latestMovies2.slice(0, num2);
+   console.log(latestMovies);
+   console.log(latestMovies2);
 
    const movies = latestMovies.map((mov) => (
       <Grid.Col
